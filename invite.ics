@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=bharthi200@gmail.com;RSVP=TRUE:mailto:bharthi200@gmail.com
+ATTENDEE;CN=redrouthuanantha123@gmail.com;RSVP=TRUE:mailto:redrouthuanantha
+	123@gmail.com
+ATTENDEE;CN=saiamithagorukallu@gmail.com;RSVP=TRUE:mailto:saiamithagorukall
+	u@gmail.com
+ATTENDEE;CN=prathibhachinni2000@gmail.com;RSVP=TRUE:mailto:prathibhachinni2
+	000@gmail.com
+ATTENDEE;CN=ramya.mypala4@gmail.com;RSVP=TRUE:mailto:ramya.mypala4@gmail.co
+	m
+ATTENDEE;CN=satyajeet0606@gmail.com;RSVP=TRUE:mailto:satyajeet0606@gmail.co
+	m
+ATTENDEE;CN=vaibhavjadhav6100@gmail.com;RSVP=TRUE:mailto:vaibhavjadhav6100@
+	gmail.com
+ATTENDEE;CN=karankumarshedale2000@gmail.com;RSVP=TRUE:mailto:karankumarshed
+	ale2000@gmail.com
+ATTENDEE;CN=polurumamatha13@gmail.com;RSVP=TRUE:mailto:polurumamatha13@gmai
+	l.com
+ATTENDEE;CN=thiyamahesh00@gmail.com;RSVP=TRUE:mailto:thiyamahesh00@gmail.co
+	m
+ATTENDEE;CN=ca185113261@bhc.edu.in;RSVP=TRUE:mailto:ca185113261@bhc.edu.in
+ATTENDEE;CN=gondaleyashaswi27@gmail.com;RSVP=TRUE:mailto:gondaleyashaswi27@
+	gmail.com
+ATTENDEE;CN=sow1611@gmail.com;RSVP=TRUE:mailto:sow1611@gmail.com
+ATTENDEE;CN=ca185113209@bhc.edu.in;RSVP=TRUE:mailto:ca185113209@bhc.edu.in
+ATTENDEE;CN=yuvasraja08@gmail.com;RSVP=TRUE:mailto:yuvasraja08@gmail.com
+ATTENDEE;CN=saurabhburde70@gmail.com;RSVP=TRUE:mailto:saurabhburde70@gmail.
+	com
+ATTENDEE;CN=nawabjanshaik86@gmail.com;RSVP=TRUE:mailto:nawabjanshaik86@gmai
+	l.com
+ATTENDEE;CN=sachinrpatil8@gmail.com;RSVP=TRUE:mailto:sachinrpatil8@gmail.co
+	m
+ATTENDEE;CN=ramyasrik128@gmail.com;RSVP=TRUE:mailto:ramyasrik128@gmail.com
+ATTENDEE;CN=18bca068@hicas.ac.in;RSVP=TRUE:mailto:18bca068@hicas.ac.in
+ATTENDEE;CN=bisen_virendra.it@ghrce.raisoni.net;RSVP=TRUE:mailto:bisen_vire
+	ndra.it@ghrce.raisoni.net
+ATTENDEE;CN=malathimanikam2213@gmail.com;RSVP=TRUE:mailto:malathimanikam221
+	3@gmail.com
+ATTENDEE;CN=vasantha262626@gmail.com;RSVP=TRUE:mailto:vasantha262626@gmail.
+	com
+ATTENDEE;CN=varalakshmisikkireddi7351@gmail.com;RSVP=TRUE:mailto:varalakshm
+	isikkireddi7351@gmail.com
+ATTENDEE;CN=venkatsuresh101251@gmail.com;RSVP=TRUE:mailto:venkatsuresh10125
+	1@gmail.com
+ATTENDEE;CN=yash.1721ec1219@kiet.edu;RSVP=TRUE:mailto:yash.1721ec1219@kiet.
+	edu
+ATTENDEE;CN=ujjwal.1721me1026@kiet.edu;RSVP=TRUE:mailto:ujjwal.1721me1026@k
+	iet.edu
+ATTENDEE;CN=sricharannalluri446@gmail.com;RSVP=TRUE:mailto:sricharannalluri
+	446@gmail.com
+ATTENDEE;CN="'Amrit A'";RSVP=TRUE:mailto:amrit@alchemysolutions.net
+ATTENDEE;CN=rtuli2@dxc.com;RSVP=TRUE:mailto:rtuli2@dxc.com
+ATTENDEE;CN=anirudh.shivshetty@dxc.com;RSVP=TRUE:mailto:anirudh.shivshetty@
+	dxc.com
+ATTENDEE;CN=mahesh.a@alchemysolutions.net;RSVP=TRUE:mailto:mahesh.a@alchemy
+	solutions.net
+ATTENDEE;CN=RACHANA';RSVP=TRUE:mailto:rachana.gandhi@dxc.com
+CLASS:PUBLIC
+CREATED:20211111T103951Z
+DESCRIPTION:Hello everyone\,\n\n \n\nI hope you’re all doing well. \n\n \
+	n\nIt’s time for us to meet to discuss on DXC training session. I looked
+	 at everyone’s availability on Calendly\, and it looks like 12/11/2021 a
+	t 4:10 pm to 4:20 pm will work best for everyone. \n\nLet’s connect on t
+	eams platform. We should need about 10 mints of meeting. I request all of 
+	you to please join. thanks in advance!\n\n \n\nThanks and Regards\,       
+	                                                                          
+	           \n\nSunitha B\nTraining coordinator \n\nMob : 7892499481 | Emai
+	l : sunitha.b@alchemysolutions.net <mailto:sunitha.b@alchemysolutions.net>
+	 \n\n \n\n \n\n___________________________________________________________
+	_____________________ \n\nMicrosoft Teams meeting \n\nJoin on your compute
+	r or mobile app \n\nClick here to join the meeting <https://teams.microsof
+	t.com/l/meetup-join/19%3ameeting_NWY2ZTVkMmItOWNhZS00OGM0LTgxYjgtZjJkOWM1Z
+	GM4MDEz%40thread.v2/0?context=%7b%22Tid%22%3a%2239d5b779-8b24-4e1d-b86d-94
+	df66abc1e6%22%2c%22Oid%22%3a%224faf5b74-b14b-4ade-9e51-b1f38093f819%22%7d>
+	  \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <htt
+	ps://teams.microsoft.com/meetingOptions/?organizerId=4faf5b74-b14b-4ade-9e
+	51-b1f38093f819&tenantId=39d5b779-8b24-4e1d-b86d-94df66abc1e6&threadId=19_
+	meeting_NWY2ZTVkMmItOWNhZS00OGM0LTgxYjgtZjJkOWM1ZGM4MDEz@thread.v2&message
+	Id=0&language=en-US>  \n\n________________________________________________
+	________________________________ \n\n \n\n
+DTEND;TZID="India Standard Time":20211112T162000
+DTSTAMP:20211111T103951Z
+DTSTART;TZID="India Standard Time":20211112T161000
+LAST-MODIFIED:20211111T103951Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN=Sunitha:mailto:sunitha.b@alchemysolutions.net
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Team Condense meeting
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D0A3BC1716D7D701000000000000000
+	010000000914398FF0DF6A8479D96DE6E62E196B8
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:x="urn:schemas-microsoft-com:office:excel" x
+	mlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://ww
+	w.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/
+	html\; charset=us-ascii"><meta name=Generator content="Microsoft Word 15 (
+	filtered medium)"><style><!--\n/* Font Definitions */\n@font-face\n	{font-
+	family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	{f
+	ont-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{fon
+	t-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 2 3\;}\n@font-face\n	{fo
+	nt-family:"Segoe UI Semibold"\;\n	panose-1:2 11 7 2 4 2 4 2 2 3\;}\n/* Sty
+	le Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0i
+	n\;\n	margin-bottom:.0001pt\;\n	font-size:12.0pt\;\n	font-family:"Times Ne
+	w Roman"\,serif\;}\nh1\n	{mso-style-priority:9\;\n	mso-style-link:"Heading
+	 1 Char"\;\n	mso-margin-top-alt:auto\;\n	margin-right:0in\;\n	mso-margin-b
+	ottom-alt:auto\;\n	margin-left:0in\;\n	font-size:24.0pt\;\n	font-family:"T
+	imes New Roman"\,serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priorit
+	y:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\na:visited\, span.
+	MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	color:#954F72\;\n	text-d
+	ecoration:underline\;}\nspan.Heading1Char\n	{mso-style-name:"Heading 1 Cha
+	r"\;\n	mso-style-priority:9\;\n	mso-style-link:"Heading 1"\;\n	font-family
+	:"Times New Roman"\,serif\;\n	font-weight:bold\;}\np.msonormal0\, li.msono
+	rmal0\, div.msonormal0\n	{mso-style-name:msonormal\;\n	mso-margin-top-alt:
+	auto\;\n	margin-right:0in\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0
+	in\;\n	font-size:12.0pt\;\n	font-family:"Times New Roman"\,serif\;}\np.xms
+	onormal\, li.xmsonormal\, div.xmsonormal\n	{mso-style-name:x_msonormal\;\n
+		mso-style-priority:99\;\n	margin:0in\;\n	margin-bottom:.0001pt\;\n	font-s
+	ize:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\nspan.inv-subject\n	{m
+	so-style-name:inv-subject\;}\nspan.inv-meeting-url\n	{mso-style-name:inv-m
+	eeting-url\;}\nspan.EmailStyle22\n	{mso-style-type:personal\;\n	font-famil
+	y:"Calibri"\,sans-serif\;\n	color:windowtext\;}\nspan.EmailStyle23\n	{mso-
+	style-type:personal\;\n	font-family:"Calibri"\,sans-serif\;\n	color:#1F497
+	D\;}\nspan.EmailStyle24\n	{mso-style-type:personal\;\n	font-family:"Calibr
+	i"\,sans-serif\;\n	color:#1F497D\;}\nspan.EmailStyle25\n	{mso-style-type:p
+	ersonal-reply\;\n	font-family:"Calibri"\,sans-serif\;\n	color:#1F497D\;}\n
+	.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;}\n@pag
+	e WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\
+	ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><
+	xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><
+	!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edi
+	t" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lang=EN-US 
+	link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal>
+	<span style='font-family:"Calibri"\,sans-serif'>Hello everyone\,<o:p></o:p
+	></span></p><p class=MsoNormal><span style='font-family:"Calibri"\,sans-se
+	rif'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span style='font-fam
+	ily:"Calibri"\,sans-serif'>I hope you&#8217\;re all doing well. <o:p></o:p
+	></span></p><p class=MsoNormal><span style='font-family:"Calibri"\,sans-se
+	rif'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span style='font-fam
+	ily:"Calibri"\,sans-serif'>It&#8217\;s time for us to meet to discuss on D
+	XC training session. I looked at everyone&#8217\;s availability on Calendl
+	y\, and it looks like 12/11/2021&nbsp\;at 4:10 pm to 4:20 pm&nbsp\;will wo
+	rk best for everyone. <o:p></o:p></span></p><p class=MsoNormal><span style
+	='font-family:"Calibri"\,sans-serif'>Let&#8217\;s connect on teams platfor
+	m. We should need about 10 mints of meeting. I request all of you to pleas
+	e join. thanks in advance!<o:p></o:p></span></p><p class=MsoNormal><span s
+	tyle='font-family:"Calibri"\,sans-serif'><o:p>&nbsp\;</o:p></span></p><p c
+	lass=MsoNormal><span style='font-family:"Calibri"\,sans-serif'>Thanks and 
+	Regards\,<b> &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp
+	\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\;
+	 &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &
+	nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nb
+	sp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp
+	\; &nbsp\;</b><o:p></o:p></span></p><p class=MsoNormal><b><span style='fon
+	t-family:"Calibri"\,sans-serif'>Sunitha B<br>Training coordinator&nbsp\;</
+	span></b><span style='font-family:"Calibri"\,sans-serif'><o:p></o:p></span
+	></p><p class=MsoNormal><span style='font-family:"Calibri"\,sans-serif'>Mo
+	b : 7892499481 |&nbsp\;Email : <a href="mailto:sunitha.b@alchemysolutions.
+	net">sunitha.b@alchemysolutions.net</a><o:p></o:p></span></p><p class=MsoN
+	ormal><span style='font-size:11.0pt\;font-family:"Calibri"\,sans-serif\;co
+	lor:#1F497D'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span style='
+	font-size:11.0pt\;font-family:"Calibri"\,sans-serif\;color:#1F497D'><o:p>&
+	nbsp\;</o:p></span></p><div><div><p class=MsoNormal><span style='color:#5F
+	5F5F'>____________________________________________________________________
+	____________</span> <o:p></o:p></p></div><div><div style='margin-top:.25in
+	\;margin-bottom:15.0pt'><p class=MsoNormal><span style='font-size:18.0pt\;
+	font-family:"Segoe UI"\,sans-serif\;color:#252424'>Microsoft Teams meeting
+	</span><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o
+	:p></o:p></span></p></div><div style='margin-bottom:15.0pt'><div><p class=
+	MsoNormal><b><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-s
+	erif\;color:#252424'>Join on your computer or mobile app</span></b><b><spa
+	n style='font-family:"Segoe UI"\,sans-serif\;color:#252424'> <o:p></o:p></
+	span></b></p></div><p class=MsoNormal><span style='font-family:"Segoe UI"\
+	,sans-serif\;color:#252424'><a href="https://teams.microsoft.com/l/meetup-
+	join/19%3ameeting_NWY2ZTVkMmItOWNhZS00OGM0LTgxYjgtZjJkOWM1ZGM4MDEz%40threa
+	d.v2/0?context=%7b%22Tid%22%3a%2239d5b779-8b24-4e1d-b86d-94df66abc1e6%22%2
+	c%22Oid%22%3a%224faf5b74-b14b-4ade-9e51-b1f38093f819%22%7d" target="_blank
+	"><span style='font-size:10.5pt\;font-family:"Segoe UI Semibold"\,sans-ser
+	if\;color:#6264A7'>Click here to join the meeting</span></a> <o:p></o:p></
+	span></p></div><div style='margin-top:15.0pt\;margin-bottom:.25in'><p clas
+	s=MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424
+	'><a href="https://aka.ms/JoinTeamsMeeting" target="_blank"><span style='f
+	ont-size:10.5pt\;color:#6264A7'>Learn More</span></a> | <a href="https://t
+	eams.microsoft.com/meetingOptions/?organizerId=4faf5b74-b14b-4ade-9e51-b1f
+	38093f819&amp\;tenantId=39d5b779-8b24-4e1d-b86d-94df66abc1e6&amp\;threadId
+	=19_meeting_NWY2ZTVkMmItOWNhZS00OGM0LTgxYjgtZjJkOWM1ZGM4MDEz@thread.v2&amp
+	\;messageId=0&amp\;language=en-US" target="_blank"><span style='font-size:
+	10.5pt\;color:#6264A7'>Meeting options</span></a> <o:p></o:p></span></p></
+	div></div></div><div><p class=MsoNormal><span style='color:#5F5F5F'>______
+	__________________________________________________________________________
+	</span> <o:p></o:p></p></div><p class=MsoNormal><span style='font-size:11.
+	0pt\;font-family:"Calibri"\,sans-serif\;color:#1F497D'><o:p>&nbsp\;</o:p><
+	/span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
